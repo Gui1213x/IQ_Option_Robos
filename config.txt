@@ -1,6 +1,6 @@
 [LOGIN]
-email = guilherme.fernandes.sou@gmail.com
-senha = yasmin61969578
+email = coloquei seu e-mail da IQ Option
+senha = coloque sua senha da IQ Option
 
 [AJUSTES]
 valor_entrada = 5 
